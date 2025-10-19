@@ -1,6 +1,6 @@
 <h1>👋 Hiii I'm Nico</h1><br/>
 👨‍💻 Computer science student at ESGIS<br/>
-✍️ I’m currently learning many JavaScript's stacks<br/>
+✍️ I’m currently learning many stacks<br/>
 🏃‍♂️Constantly learning<br/>
 
 
